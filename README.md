@@ -31,4 +31,14 @@ SSR vs SSG vs CSR
 
 https://dev.to/pahanperera/visual-explanation-and-comparison-of-csr-ssr-ssg-and-isr-34ea
 
+React security
+use well maintained packages
+https://openbase.com/
+use https://snyk.io/
+
+Dont generate source map
+in .env GENERATE_SOURCEMAP: false
+
+javascript obfuscator: 
+
 
