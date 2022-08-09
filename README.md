@@ -1,4 +1,4 @@
-# resourse
+# web
 
 Security
 https://dbillinghamuk.medium.com/web-security-f1888066ae44
@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/5207160/what-is-a-csrf-token-what-is-its-imp
 https://web.archive.org/web/20190706194107/https://cloudunder.io/blog/csrf-token
 
 
-cors
+cors, cors preflight cache
 https://blog.webdevsimplified.com/2021-05/cors/
 
 
@@ -37,8 +37,9 @@ https://openbase.com/
 use https://snyk.io/
 
 Dont generate source map
+
 in .env GENERATE_SOURCEMAP: false
 
-javascript obfuscator: 
+use javascript obfuscator: may cause performance hit
 
 
